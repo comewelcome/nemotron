@@ -1,0 +1,9 @@
+.git
+.venv/
+__pycache__/
+*.pyc
+*.log
+npm-debug.log
+Dockerfile
+docker-compose.yml
+.vscode/
